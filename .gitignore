@@ -484,3 +484,9 @@ $RECYCLE.BIN/
 *.swp
 API/appsettings.json
 API/dating.db*
+
+# SSL keys
+ssl/
+*.pem
+*.key
+

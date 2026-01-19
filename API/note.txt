@@ -8,5 +8,5 @@ Section 2
 
 Section 3
 Angular
-Add CORS config to the API
+Add CORS config to the API  
 Tailwind CSS and DaisyUI
