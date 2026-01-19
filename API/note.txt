@@ -1,3 +1,12 @@
-endpoints is ...
-request
-attribute
+Section 2
+- Using the dotnet CLI
+- API Controllers and Endpoints
+- Entity Framework
+- The API Project structure
+- Configuration and Environment variables
+- Source control
+
+Section 3
+Angular
+Add CORS config to the API
+Tailwind CSS and DaisyUI
