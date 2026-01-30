@@ -10,3 +10,15 @@ Section 3
 Angular
 Add CORS config to the API  
 Tailwind CSS and DaisyUI
+
+Section 4: Authentication basics
+    - How to store password in the Database
+    - Using inheritance in C#- DRY
+    - Using the C# debugger
+    - Using Data Transfer Objects (DTOs)
+    - Validation 
+    - JSON Web Tokens (JWTs)
+    - Using services in C#
+    - Middleware
+    - Extension methods - DRY
+    *** Everything starts with the USERS ***
